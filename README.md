@@ -51,6 +51,8 @@ You can now link this URL to other people (e.g. in papers) to show them your fan
 
 ## 4. Another Example
 Here is another example, from my work:
+
 Figure URL: https://richardp1234.github.io/GFA-Vis/index2.html
+
 GitHub: https://github.com/RichardP1234/GFA-Vis (work in progress!)
 
