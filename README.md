@@ -38,15 +38,10 @@ A GitHub repository is somewhere to store your figure and other files. It is gre
 
 ## 3.	Activating GitHub Pages
 GitHub Pages is a free service offered by GitHub that is usually used to host a fancy looking version of your repository. We are going to use it to direct people to the .html figure. To active GitHub pages:
- - Click Settings:
+ - Click Settings, then Pages:
  
-  ![b](imgs/b.png)
- - Click Pages:
- 
-   ![c](imgs/c.png)
  - Select ‘main’ as the Source:
- 
-   ![d](imgs/d.png)
+
  - It should now look like this:
  
    ![e](imgs/e.png)
