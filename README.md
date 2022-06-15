@@ -5,7 +5,7 @@ This guide gives an example of how to create a clickable link to an interactive 
 This repository contains:
  - index.html - The figure itself
  - CreatingFigure.py - Used to make the example figure. Note that this does not need to be present in the repository for the following steps to work.
-
+ - imgs folder - Contains the screenshots for this README.
 
 ## 1.	Making the figure
 There are a lot of ways to make an interactive figure. But, for method of getting a shareable link your figure needs to be saved in a .html format.
@@ -32,6 +32,7 @@ A GitHub repository is somewhere to store your figure and other files. It is gre
  - Create a public GitHub repository to store your .html code. This page describes the process - https://docs.github.com/en/get-started/quickstart/create-a-repo
  - Upload index.html to the repository:
  
+ ![a](imgs/a.png)
  - It is good practice to upload the data and code used to make the figure so they are in the same place but this is not necessary to link someone to the .html.
  - Give your README.md some useful information.
 
@@ -39,11 +40,15 @@ A GitHub repository is somewhere to store your figure and other files. It is gre
 GitHub Pages is a free service offered by GitHub that is usually used to host a fancy looking version of your repository. We are going to use it to direct people to the .html figure. To active GitHub pages:
  - Click Settings:
  
+  ![b](imgs/b.png)
  - Click Pages:
  
+   ![c](imgs/c.png)
  - Select ‘main’ as the Source:
  
+   ![d](imgs/d.png)
  - It should now look like this:
  
+   ![e](imgs/e.png)
  - Wait a few minutes for the server to update then click the .url (in this example: https://richardp1234.github.io/example-interactive-figure/). As long as your figure is called index.html the default url should open the figure.
 
