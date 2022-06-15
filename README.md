@@ -31,7 +31,7 @@ This .html contains all of the information necessary to plot the figure in a bro
 A GitHub repository is somewhere to store your figure and other files. It is great for version control. Here we are just using it as a handy way to host the figure.
 
  - Create a public GitHub repository to store your .html code. This page describes the process - https://docs.github.com/en/get-started/quickstart/create-a-repo
- - Upload index.html to the repository:
+ - Upload index.html to the root of the repository (as it is in this example):
  
  ![a](imgs/a.png)
  - It is good practice to upload the data and code used to make the figure so they are in the same place but this is not necessary to link someone to the .html.
@@ -55,5 +55,5 @@ Here is another example, from my work:
 
 Figure URL: https://richardp1234.github.io/GFA-Vis/index2.html
 
-GitHub: https://github.com/RichardP1234/GFA-Vis (work in progress!)
+GitHub: https://github.com/RichardP1234/GFA-Vis (work in progress!) - note that the Plotly code for this is not written 'well' and is in no way an examplar.
 
