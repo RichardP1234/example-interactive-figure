@@ -1,5 +1,6 @@
 # Example Interactive Figure
 Author - Richard Pyle (richard.pyle@bristol.ac.uk)
+
 This guide gives an example of how to create a clickable link to an interactive figure that people can use without installing any code or downloading any data. This can be useful for linking to interactive versions of figures in papers.
 
 This repository contains:
